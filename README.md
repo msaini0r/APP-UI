@@ -9,11 +9,7 @@ flutter pub get
 flutter run
 ````
 
-## Screenshots
-
-[![image](https://www.linkpicture.com/q/Screenshot_2021-10-21-21-28-08-606_com.example.ui.jpg)](https://www.linkpicture.com/view.php?img=LPic617191c06c386498751440)
-
-[![image](https://www.linkpicture.com/q/Screenshot_2021-10-21-21-28-14-136_com.example.ui.jpg)](https://www.linkpicture.com/view.php?img=LPic6171921ebf7021209126245)
+![ui](https://user-images.githubusercontent.com/87536360/138326031-e4d1bd63-2743-44bd-8884-365bbf3dfc9c.gif)
 
 <h1 align="center">Connect with me</h1>
 
